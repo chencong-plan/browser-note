@@ -21,3 +21,12 @@
 > + [Maven学习总结(七)——eclipse中使用Maven创建Web项目](http://www.cnblogs.com/xdp-gacl/p/4054814.html)
 > + [Maven学习总结(八)——使用Maven构建多模块项目](http://www.cnblogs.com/xdp-gacl/p/4242221.html)
 > + [Maven学习总结(九)——使用Nexus搭建Maven私服](http://www.cnblogs.com/xdp-gacl/p/4068967.html)
+
+### 前端
+
+> Mock.js 生成随机数据，拦截 Ajax 请求
++ [Mock.js](http://mockjs.com/)
+
+> 前后端分类
++ [前后端分离实践（一）](https://segmentfault.com/a/1190000009329474)
++ [实现前后端分离的心得](http://blog.jobbole.com/111624/)
