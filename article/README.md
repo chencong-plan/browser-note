@@ -30,3 +30,9 @@
 > 前后端分类
 + [前后端分离实践（一）](https://segmentfault.com/a/1190000009329474)
 + [实现前后端分离的心得](http://blog.jobbole.com/111624/)
+
+### MongoDB Spring文件上传下载
+
++ [Springmvc与Mongo GridFs 实现文件的上传和获取](http://blog.csdn.net/wangjia55/article/details/51740437)
+
++ [spring封装mongodb的代码实现](http://blog.csdn.net/antao592/article/details/52778567)
