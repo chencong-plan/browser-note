@@ -36,3 +36,7 @@
 + [Springmvc与Mongo GridFs 实现文件的上传和获取](http://blog.csdn.net/wangjia55/article/details/51740437)
 
 + [spring封装mongodb的代码实现](http://blog.csdn.net/antao592/article/details/52778567)
+
+### 单点登录
++ [单点登录原理与简单实现](https://www.cnblogs.com/ywlaker/p/6113927.html)
+ > [https://github.com/sheefee/simple-sso](https://github.com/sheefee/simple-sso)
